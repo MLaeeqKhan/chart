@@ -1,0 +1,39 @@
+[
+    {
+        "label":"Jan",
+        "reveue":55555,
+        "cost":34444
+    },
+    {
+        "label":"Feb",
+        "reveue":50555,
+        "cost":34444
+    },
+    {
+        "label":"March",
+        "reveue":50555,
+        "cost":34444
+    },
+    {
+        "label":"April",
+        "reveue":55555,
+        "cost":14444
+    },
+    {
+        "label":"May",
+        "reveue":65555,
+        "cost":54444
+    },
+    {
+        "label":"Jun",
+        "reveue":60000,
+        "cost":54444
+    },
+    {
+        "label":"July",
+        "reveue":65555,
+        "cost":54444
+    }
+
+
+]
