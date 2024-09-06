@@ -72,7 +72,7 @@ function App() {
           plugins:{
             title:{
   
-              text:"Monthly Revenue & Cost"
+              text:"Revenue Source"
             }
           }
         }}
@@ -89,6 +89,14 @@ function App() {
           data: sourceData.map((data)=>data.value),
           }
           ]
+        }}
+        options={{
+          plugins:{
+            title:{
+  
+              text:"Revenue Source"
+            }
+          }
         }}
         />
       </div>
